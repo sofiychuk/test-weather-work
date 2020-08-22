@@ -43,16 +43,16 @@
     font-size: 20px;
     color: brown;
 } 
-/* a {
+a {
     font-size: 20px;
     padding: 0;
     color: navy;
-} */
-/* a:hover {
+}
+a:hover {
     color: black;
     font-size: 22px;
     font-family: cursive;
-}  */
+} 
 li{
 
 }
